@@ -4,6 +4,8 @@ IBM bietet eine Menge Services und Starter Codes die sich hervorragend eignen um
 
 * Chatbot / Speech-to-Text / Text-to-Speech mit GUI ohne Programmierkenntnis aufsetzen 
     (https://cloud.ibm.com/catalog?category=ai)
+    und dazu direkt das "Corina" intelligent Chatbot Starter Packet auf das ihr aufsetzen könnt:
+    https://ibm.box.com/v/covid-19-IBM-chatbot-hackathon 
      
 * Webseiten & APIs erstellen mit Starter Kits (Node.Js, Python Flask, ...) & hosten inkl. Domain 
     (https://cloud.ibm.com/developer/appservice/starter-kits )
