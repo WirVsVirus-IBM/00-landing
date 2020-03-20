@@ -25,5 +25,4 @@ In dieser Videoliste geht es um **DevOps und CloudFoundry** in der IBM Cloud und
 * https://www.ibm.com/cloud/garage/architectures
 Hier sind Templates und Vorlagen bzgl. der Unterschiedlichen Nutzung der IBM Cloud zu finden.
 
-* https://www.draw.io/?splash=0&libs=ibm Einfach schnell mal ein Cloud Diagramm erstellen
-![draw-io-2018-08-30](/uploads/98df40c098d565f0f60b6dd278713711/draw-io-2018-08-30.jpg)
+* https://www.draw.io/?splash=0&libs=ibm Einfach schnell mal ein Architektur-Diagramm erstellen.
