@@ -20,7 +20,7 @@ IBM bietet eine Menge Services und Starter Codes die sich hervorragend eignen um
 
 **Vorlagen und Beispiele**
 
-* https://developer.ibm.com/patterns/category/cloud/ **IBM Cloud Code Patterns** hier gibt es Code Beispiele zu verschiedenen Themen in der IBM Cloud.
+* https://developer.ibm.com/patterns/category/cloud/ **IBM Cloud Code Patterns**: Hier gibt es Code-Beispiele zu verschiedenen Themen in der IBM Cloud.
 
 **Wichtige Development Informationen für die IBM Cloud**
 
