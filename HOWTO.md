@@ -1,16 +1,20 @@
+**Nutzung von Cloud Services rund um Prototyping**
 
-**Kostenlose Schulungen**
+* Chatbot / Speech-to-Text / Text-to-Speech mit GUI ohne Programmierkenntnis aufsetzen 
+    (https://cloud.ibm.com/catalog?category=ai)
+     
+* Webseiten & APIs erstellen mit Starter Kits (Node.Js, Python Flask, ...) & hosten inkl. Domain 
+    (https://cloud.ibm.com/developer/appservice/starter-kits )
+     
+* Machine Learning Werkzeuge / Data Science u.a. a la Jupyter um Daten zu analysieren, Prognosen zu machen und zu Visualisieren auf Cloud Ressourcen
+    (https://dataplatform.cloud.ibm.com)
+     
+* IoT Plattform um Geräte anzubinden um zB Sensordaten auszuwerten und verfügbar zu machen 
+    (https://cloud.ibm.com/catalog/services/internet-of-things-platform)
+     
+* Blockchain Anwendungen
+    https://cloud.ibm.com/catalog?search=blockchain
 
-Hier sind verschiedene kostenlose Schulungen bzgl. IBM Cloud. Diese Schulungen sind über
-* https://developer.ibm.com/courses/ oder auf
-* https://courses.cognitiveclass.ai/login verfügbar.
-
-**Verschiedene YouTube Videos oder Kanäle**
-
-* https://www.youtube.com/watch?v=bu_7eYvRJmY&list=PLUte4WEyMEjVPJ0mESXM4jgQvYlEmUwCF#
-In dieser Videoliste geht es um **DevOps und CloudFoundry** in der IBM Cloud und es wird gezeigt wie dies zusammenspielt.
-
-* https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA Der **IBM Developer Channel**  ist der YouTube Kanal von IBM in dem zu den verschiedenen Themen Videos zu finden sind.
 
 **Vorlagen und Beispiele**
 
@@ -27,3 +31,17 @@ Hier sind Templates und Vorlagen bzgl. der Unterschiedlichen Nutzung der IBM Clo
 
 * https://www.draw.io/?splash=0&libs=ibm Einfach schnell mal ein Cloud Diagramm erstellen
 ![draw-io-2018-08-30](/uploads/98df40c098d565f0f60b6dd278713711/draw-io-2018-08-30.jpg)
+
+
+**Kostenlose Schulungen**
+
+Hier sind verschiedene kostenlose Schulungen bzgl. IBM Cloud. Diese Schulungen sind über
+* https://developer.ibm.com/courses/ oder auf
+* https://courses.cognitiveclass.ai/login verfügbar.
+
+**Verschiedene YouTube Videos oder Kanäle**
+
+* https://www.youtube.com/watch?v=bu_7eYvRJmY&list=PLUte4WEyMEjVPJ0mESXM4jgQvYlEmUwCF#
+In dieser Videoliste geht es um **DevOps und CloudFoundry** in der IBM Cloud und es wird gezeigt wie dies zusammenspielt.
+
+* https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA Der **IBM Developer Channel**  ist der YouTube Kanal von IBM in dem zu den verschiedenen Themen Videos zu finden sind.
