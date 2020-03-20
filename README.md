@@ -12,3 +12,12 @@ Als Teilnehmer des Hackathons könnt Ihr für eure Lösungen Gebrauch von der [I
 - Services für Sicherheit, DevOps und mehr
 
 zur Verfügung. Schaut einfach mal in den [Katalog mit allen Angeboten der IBM Cloud](https://cloud.ibm.com/catalog).
+
+
+# Hilfe
+
+Bei technischen Fragen könnt Ihr diese auf [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud) stellen. Bitte die Fragen mit dem Tag `ibm-cloud` versehen. Eine weitere Möglichkeit, um Hilfe bei technischen Problemen zu erhalten, ist einen der Coaches zu kontaktieren. Zudem dürft Ihr gerne auch ein "Issue" hier auf dem Repo aufmachen.
+
+# Über
+
+Dieses Repository und die Inhalte werden von Freiwilligen, die Angestellte der IBM sind, bereitgestellt. Es ist kein offizielles Angebot der IBM.
