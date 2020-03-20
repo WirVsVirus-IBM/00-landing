@@ -2,7 +2,7 @@
 
 ## IBM Cloud Registrierung
 
-Hier findest Du die Registrierungswebseite für den **IBM Cloud Account**:  https://ibm.biz/hhack-cloud
+Hier findest Du die Registrierungswebseite für den **IBM Cloud Account**: http://ibm.biz/ibmcloud-4-wir-vs-virus
 
 Für den dann erzeugten **IBM Cloud Lite Account** ist es **nicht notwendig** eine Kreditkarte zu hinterlegen. 
 (Informationen hierzu hier: https://www.ibm.com/cloud/lite-account)
