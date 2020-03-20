@@ -18,7 +18,7 @@ In dieser Videoliste geht es um **DevOps und CloudFoundry** in der IBM Cloud und
 
 **Wichtige Development Informationen für die IBM Cloud**
 
-* https://www.ibm.com/cloud/cli Die IBM Cloud Kommandozeile ist ein wichtiges Werkzeug für jeden Entwickler und sollte unbedingt installiert werden, wenn lokal auf dem Rechner gearbeitet wird.
+* https://www.ibm.com/cloud/cli Die IBM Cloud Kommandozeile ist ein wichtiges Werkzeug für jeden Entwickler und sollte unbedingt installiert werden, wenn lokal auf dem Rechner gearbeitet wird. Das Tutorial ["Getting started with tutorials"](https://cloud.ibm.com/docs/tutorials?topic=solution-tutorials-getting-started) bietet Installationshinweise für Windows, Mac und Linux.
 
 **Gewusst wie? Architektur in der Cloud wie geht das?**
 
