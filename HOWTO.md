@@ -1,3 +1,5 @@
+![Banner](wirvsvirus-banner.jpg)
+
 IBM bietet eine Menge Services und Starter Codes die sich hervorragend eignen um schnell Lösungen zu bauen und zu Skalieren - kostenlos im Einstieg und auch mit Promocodes direkt für den Hackathon direkt vom Orgateam.
 
 **Nutzung von Cloud Services rund um Prototyping**
