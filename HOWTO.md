@@ -22,7 +22,7 @@ IBM bietet eine Menge Services und Starter Codes die sich hervorragend eignen um
 
 **Vorlagen und Beispiele**
 
-* https://developer.ibm.com/patterns/category/cloud/ **IBM Cloud Code Patterns** hier gibt es Code Beispiele zu verschiedenen Themen in der IBM Cloud.
+* https://developer.ibm.com/patterns/category/cloud/ **IBM Cloud Code Patterns**: Hier gibt es Code-Beispiele zu verschiedenen Themen in der IBM Cloud.
 
 **Wichtige Development Informationen für die IBM Cloud**
 
@@ -33,5 +33,4 @@ IBM bietet eine Menge Services und Starter Codes die sich hervorragend eignen um
 * https://www.ibm.com/cloud/garage/architectures
 Hier sind Templates und Vorlagen bzgl. der Unterschiedlichen Nutzung der IBM Cloud zu finden.
 
-* https://www.draw.io/?splash=0&libs=ibm Einfach schnell mal ein Cloud Diagramm erstellen
-![draw-io-2018-08-30](/uploads/98df40c098d565f0f60b6dd278713711/draw-io-2018-08-30.jpg)
+* https://www.draw.io/?splash=0&libs=ibm Einfach schnell mal ein Architektur-Diagramm erstellen.
