@@ -18,7 +18,7 @@ zur Verfügung. Schaut einfach mal in den [Katalog mit allen Angeboten der IBM C
 
 # Hilfe
 
-Bei technischen Fragen könnt Ihr diese auf [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud) stellen. Bitte die Fragen mit dem Tag `ibm-cloud` versehen. Eine weitere Möglichkeit, um Hilfe bei technischen Problemen zu erhalten, ist einen der Coaches zu kontaktieren. Zudem dürft Ihr gerne auch ein "Issue" hier auf dem Repo aufmachen.
+Bei technischen Fragen könnt Ihr diese auf [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud) stellen. Bitte die Fragen mit dem Tag `ibm-cloud` versehen. Eine weitere Möglichkeit, um Hilfe bei technischen Problemen zu erhalten, ist einen der Coaches zu kontaktieren. Zudem dürft Ihr gerne auch ein [Issue](https://github.com/WirVsVirus-IBM/00-landing/issues) hier auf dem Repo aufmachen.
 
 # Über
 
