@@ -1,4 +1,6 @@
-# Wir vs Virus-Hackathon - Willkommen!
+![Banner](wirvsvirus-banner.jpg)
+
+# WIRvsVIRUS Hackathon - Willkommen!
 In diesem Repo findet Ihr Links zu von [IBM](https://www.ibm.com/de-de) bereitgestellten Ressourcen für den Hackathon.
 
 - Unter [HOWTO](/HOWTO.md) gibt es Informationen zu Code-Vorlagen, Tips & Tricks und Werkzeugen. 
