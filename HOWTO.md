@@ -1,20 +1,26 @@
+IBM bietet eine Menge Services und Starter Codes die sich hervorragend eignen um schnell Lösungen zu bauen und zu Skalieren - kostenlos im Einstieg und auch mit Promocodes direkt für den Hackathon direkt vom Orgateam.
 
-**Kostenlose Schulungen**
+**Nutzung von Cloud Services rund um Prototyping**
 
-Hier sind verschiedene kostenlose Schulungen bzgl. IBM Cloud. Diese Schulungen sind über
-* https://developer.ibm.com/courses/ oder auf
-* https://courses.cognitiveclass.ai/login verfügbar.
+* Chatbot / Speech-to-Text / Text-to-Speech mit GUI ohne Programmierkenntnis aufsetzen 
+    (https://cloud.ibm.com/catalog?category=ai)
+     
+* Webseiten & APIs erstellen mit Starter Kits (Node.Js, Python Flask, ...) & hosten inkl. Domain 
+    (https://cloud.ibm.com/developer/appservice/starter-kits )
+     
+* Machine Learning Werkzeuge / Data Science u.a. a la Jupyter um Daten zu analysieren, Prognosen zu machen und zu Visualisieren auf Cloud Ressourcen
+    (https://dataplatform.cloud.ibm.com)
+     
+* IoT Plattform um Geräte anzubinden um zB Sensordaten auszuwerten und verfügbar zu machen 
+    (https://cloud.ibm.com/catalog/services/internet-of-things-platform)
+     
+* Blockchain Anwendungen
+    https://cloud.ibm.com/catalog?search=blockchain
 
-**Verschiedene YouTube Videos oder Kanäle**
-
-* https://www.youtube.com/watch?v=bu_7eYvRJmY&list=PLUte4WEyMEjVPJ0mESXM4jgQvYlEmUwCF#
-In dieser Videoliste geht es um **DevOps und CloudFoundry** in der IBM Cloud und es wird gezeigt wie dies zusammenspielt.
-
-* https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA Der **IBM Developer Channel**  ist der YouTube Kanal von IBM in dem zu den verschiedenen Themen Videos zu finden sind.
 
 **Vorlagen und Beispiele**
 
-* https://developer.ibm.com/patterns/category/cloud/ **IBM Cloud Code Patterns** hier gibt er Code Beispiele zu verschiedenen Themen in der IBM Cloud.
+* https://developer.ibm.com/patterns/category/cloud/ **IBM Cloud Code Patterns** hier gibt es Code Beispiele zu verschiedenen Themen in der IBM Cloud.
 
 **Wichtige Development Informationen für die IBM Cloud**
 
